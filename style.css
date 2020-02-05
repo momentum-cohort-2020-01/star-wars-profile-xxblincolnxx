@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+h1 {
+  margin: 0 auto;
+  width: 90%;
+}
+
+#section {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  /* justify-content: center; */
+  flex-wrap: wrap;
+  align-content: space-between;
+  align-items: baseline;
+}
+
+.profile {
+  display: flex;
+  flex-wrap: wrap;
+  width: 25%;
+  min-width: 300px;
+  margin: 10px;
+}
+
+.pic {
+  width: 100%;
+
+}
+
+.caption {
+
+}
+
+.about {
+
+}
